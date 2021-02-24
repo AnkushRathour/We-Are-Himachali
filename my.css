@@ -1,0 +1,21 @@
+
+.leftdiv
+{
+  top:500px;
+  width:600px;
+  height:500px;
+}
+
+.rightdiv
+{
+    top:500px;
+  height:500px;
+  width:600px;
+}
+
+.hp:hover
+{
+    transform: scale(1.1);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
